@@ -1,0 +1,11 @@
+<ROUGE-EVAL version="1.0">
+<EVAL ID="1">
+<PEER-ROOT>Encoder_decoder/annotated_encoder_decoder-master/files/trained_data_results/actual_op</PEER-ROOT>
+<MODEL-ROOT>Encoder_decoder/annotated_encoder_decoder-master/files/trained_data_results/target_op</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+<PEERS><P ID="test-candidate">$can_summary</P></PEERS>
+<MODELS>
+<M ID="S0">$ref_1</M>
+</MODELS>
+</EVAL>
+</ROUGE-EVAL>

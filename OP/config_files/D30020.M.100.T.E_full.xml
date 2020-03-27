@@ -1,0 +1,12 @@
+<ROUGE-EVAL version="1.0">
+<EVAL ID="1">
+<PEER-ROOT>/home/sandhya/Desktop/sample-project-2-sds-7jan19/test-candidate</PEER-ROOT>
+<MODEL-ROOT>/home/sandhya/Desktop/sample-project-2-sds-7jan19/test-model</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SPL"></INPUT-FORMAT>
+<PEERS><P ID="test-candidate">D30020.M.100.T.E_full.txt</P></PEERS>
+<MODELS>
+<M ID="S0">D30020.M.100.T.E</M>
+</MODELS>
+</EVAL>
+</ROUGE-EVAL>
+
